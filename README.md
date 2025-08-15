@@ -79,7 +79,7 @@ Status: Reported through responsible disclosure
 
 ### **Requirements**
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### **Basic Usage**
