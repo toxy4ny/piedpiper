@@ -79,7 +79,7 @@ Status: Reported through responsible disclosure
 
 ### **Requirements**
 ```bash
-pip install requests beautifulsoup4 sqlite3
+pip install -r requirements.txt
 ```
 
 ### **Basic Usage**
